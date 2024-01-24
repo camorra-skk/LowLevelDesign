@@ -4,7 +4,7 @@ import enums.SeatType;
 
 public class Seat {
     private int seatId;
-    private SeatType seatType;
+    private enums.SeatType seatType;
     private String row;
 
     public int getSeatId() {

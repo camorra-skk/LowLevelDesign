@@ -2,16 +2,18 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
+import domain.Seat;
 import controller.MovieController;
 import controller.TheatreController;
 import domain.Booking;
 import domain.Movie;
 import domain.Screen;
-import domain.Seat;
 import domain.Show;
 import domain.Theatre;
 import enums.City;
 import enums.SeatType;
+
+
 
 /**
  * BookMyShow
